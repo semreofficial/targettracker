@@ -1,10 +1,10 @@
 # TargetTracker
 
- verilen bir kullanıcı adını çeşitli sosyal medya platformlarında arayarak dijital ayak izlerini (OSINT) bulmayı amaçlayan Python tabanlı komut satırı aracıdır.
+**TargetTracker**, verilen bir kullanıcı adını çeşitli sosyal medya platformlarında arayarak dijital ayak izlerini (OSINT) bulmayı amaçlayan Python tabanlı komut satırı aracıdır.
 
 ---
 
- Özellikler
+## Özellikler
 
 - Instagram, GitHub, Reddit, TikTok, Twitter gibi popüler platformlarda kullanıcı adı kontrolü yapar.
 - Bulunan sonuçları JSON formatında kaydeder.
@@ -13,7 +13,7 @@
 
 ---
 
- Gereksinimler
+## Gereksinimler
 
 - Python 3.6 ve üzeri
 - Gerekli Python kütüphaneleri:
@@ -22,10 +22,10 @@
 
 ---
 
-Kurulum
+## Kurulum
 
 1. Depoyu klonlayın veya zip olarak indirin:
 
-bash
-   git clone https://github.com/kullaniciadi/TargetTracker.git
-   cd TargetTracker
+   ```bash
+   git clone https://github.com/semreofficial/targettracker.git
+   cd targettracker
