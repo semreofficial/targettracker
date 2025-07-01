@@ -1,6 +1,7 @@
 # TargetTracker
 
-**TargetTracker**, verilen bir kullanıcı adını çeşitli sosyal medya platformlarında arayarak dijital ayak izlerini (OSINT) bulmayı amaçlayan Python tabanlı komut satırı aracıdır.
+**TargetTracker**, verilen bir kullanıcı adını çeşitli sosyal medya platformlarında arayarak 
+dijital ayak izlerini (OSINT) bulmayı amaçlayan Python tabanlı bir tooldur
 
 ---
 
